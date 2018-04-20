@@ -1,2 +1,1 @@
-# csci2916-labdemo 
-Hello there man
+# csci2916-labdemo Hello man
